@@ -21,5 +21,21 @@ Clustering is used when the dataset does not have labeled outcomes, making it an
 4. Gaussian Mixture Models (GMM)
 - Based on probabilistic models.
 - Suitable for overlapping clusters.
+##  Evaluation Metrics:
+1. Silhouette Score: Measures how similar data points in a cluster are to their own cluster compared to others.
+2. Calinski_harabasz_score:  The Calinski-Harabasz score is commonly used to evaluate clustering algorithms like K-Means, particularly when choosing the optimal number of clusters.
+3. Elbow Method: Determines the optimal number of clusters in K-Means by plotting the sum of squared distances.
+4. Davies-Bouldin Index: Considers cluster compactness and separation.
+
+## About Casestudy
+Employee Attrition refers to the gradual reduction of a company's workforce due to resignations, retirements, layoffs, or other reasons where employees leave and are not replaced immediately. It is often categorized into voluntary attrition (when employees leave by choice, such as for better opportunities) and involuntary attrition (when employees are let go due to performance issues, layoffs, etc.).
+
+Objective: The goal is to cluster employees based on various factors contributing to attrition to identify patterns and insights that can help organizations reduce turnover and improve employee retention strategies.
+
+Employee attrition is a critical challenge for organizations, as it directly impacts operational efficiency, employee morale, and overall business performance. Understanding the underlying factors influencing employee turnover can help businesses design effective strategies to improve retention and enhance workplace satisfaction.
+
+This project focuses on clustering employees based on factors contributing to attrition, such as demographic information, job-related attributes, compensation, work environment, and performance indicators. By grouping employees with similar characteristics, the study aims to uncover patterns and insights that can guide targeted interventions to reduce attrition rates.
+
+
 
 
