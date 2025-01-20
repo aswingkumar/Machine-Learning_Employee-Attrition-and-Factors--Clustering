@@ -36,6 +36,6 @@ Employee attrition is a critical challenge for organizations, as it directly imp
 
 This project focuses on clustering employees based on factors contributing to attrition, such as demographic information, job-related attributes, compensation, work environment, and performance indicators. By grouping employees with similar characteristics, the study aims to uncover patterns and insights that can guide targeted interventions to reduce attrition rates.
 
-
+----To see the complete video explanation on this topic, check out the following link: https://youtu.be/--E8n3ircGE?si=95MO3-0Fl86yfKba
 
 
